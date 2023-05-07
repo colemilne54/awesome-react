@@ -180,6 +180,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-final-form](https://github.com/final-form/react-final-form) - High performance subscription-based form state management for React
 - [formily](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution
 - [vest](https://github.com/ealush/vest) - Declarative validations framework
+- [yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 
 #### React Tables and Grids
 
